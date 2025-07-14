@@ -1,5 +1,6 @@
 <img src="https://i.imgur.com/0JceyVy.gif" width="100%">
 <h1 align="center">Starlog</h1>
+<p align="center"><img src="./public/favicon.png" width="50%"></p>
 
 <p align="center">
   <b>Starlog</b> is a modern website built with <a href="https://nuxt.com/">Nuxt 3</a> and <a href="https://tailwindcss.com/">Tailwind CSS</a>.<br>
